@@ -12,7 +12,7 @@
    <a style="margin-bottom:30px"class="btn btn-default" href="{{route('customersDetails',$customer->id)}}"><i class="fa fa-backward" aria-hidden="true"></i><strong>Atras</strong>
    </a>
 @endsection
-
+ <p>commit test</p>
 @section('main-content')
 
    <div class="panel" style="max-width:600px;">
